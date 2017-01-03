@@ -1,0 +1,15 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "This is a very simple web server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/trk247"
+  },
+  "author": "Thomas Kenny",
+  "license": "ISC"
+}
